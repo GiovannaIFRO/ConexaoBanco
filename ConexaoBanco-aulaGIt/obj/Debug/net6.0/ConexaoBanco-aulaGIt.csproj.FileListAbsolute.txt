@@ -1,0 +1,15 @@
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\bin\Debug\net6.0\ConexaoBanco-aulaGIt.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\bin\Debug\net6.0\ConexaoBanco-aulaGIt.deps.json
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\bin\Debug\net6.0\ConexaoBanco-aulaGIt.runtimeconfig.json
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\bin\Debug\net6.0\ConexaoBanco-aulaGIt.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\bin\Debug\net6.0\ConexaoBanco-aulaGIt.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\ConexaoBanco-aulaGIt.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\ConexaoBanco-aulaGIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\ConexaoBanco-aulaGIt.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\ConexaoBanco-aulaGIt.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\ConexaoBanco-aulaGIt.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\ConexaoBanco-aulaGIt.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\refint\ConexaoBanco-aulaGIt.dll
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\ConexaoBanco-aulaGIt.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\ConexaoBanco-aulaGIt.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\ConexaoBanco-aulaGIt\ConexaoBanco-aulaGIt\obj\Debug\net6.0\ref\ConexaoBanco-aulaGIt.dll
